@@ -1,0 +1,10 @@
+# Ignore generated files — these are created by running the lab commands
+error_report.txt
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
